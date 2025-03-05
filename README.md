@@ -10,7 +10,7 @@
 
 ## Умею и практикую:
 <ul>
-  <li>Python (mathplotlib, seaborn, scipy.stats, plotly)</li>
+  <li>Python (matplotlib, seaborn, scipy.stats, plotly)</li>
   <li>SQL (PostgreSQL)</li>
   <li>Excel (ВПР, сводные таблицы)</li>
   <li>BI-системы (Tableau, DataLens)</li>
